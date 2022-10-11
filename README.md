@@ -48,9 +48,9 @@
 <a href = 'https://www.github.com/felipeholbi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> My recent project was  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<h2>My recent project<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/TeoVH/TC360-BACKEND">
-<img align="center" src="https://github.com/TeoVH/TC360-BACKEND"/>
+<img align="center" src="https://github.com/felipeholbi"/>
 </a>
 <br>
 
