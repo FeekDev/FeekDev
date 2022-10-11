@@ -50,7 +50,7 @@
 
 <h2>My recent project<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/TeoVH/TC360-BACKEND">
-<img align="center" src="https://github.com/felipeholbi"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/Tennis Connection 360?username=@&compact=True"/>
 </a>
 <br>
 
