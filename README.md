@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A passionate junior Backend developer from Colombia</h3>
+<h3 align="center">A passionate junior backend developer from Colombia</h3>
 
 - 🔭 I’m currently working on [Tennis Connect 360](https://github.com/TeoVH/TC360-BACKEND)
 
