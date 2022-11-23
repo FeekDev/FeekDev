@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Personal Project](https://github.com/felipeholbi/Lab_Flask_Jinja)
 
-- 🌱 I’m currently learning **Node.js, guide to becoming a modern developer of Node.js and Python, Python Developer’s Guide **
+- 🌱 I’m currently learning **Node.js, guide to becoming a modern developer of Node.js and Python, Python Developer’s Guide**
 
 - 👯 I’m looking to collaborate on **Projects related Javascript and Python**
 
