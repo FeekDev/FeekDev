@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Personal Project](https://github.com/felipeholbi/Lab_Flask_Jinja)
+- 🔭 I’m currently working on a [Personal Project](https://github.com/felipeholbi/Lab_Flask_Jinja)
 
 - 🌱 I’m currently learning **Node.js, guide to becoming a modern developer of Node.js**
 
