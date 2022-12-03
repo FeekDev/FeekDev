@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on Learn [Ruby](https://github.com/felipeholbi/Ruby) and [web specialization](https://github.com/felipeholbi/holbertonschool-web_front_end)
+- 🔭 I’m currently working on learn [Ruby](https://github.com/felipeholbi/Ruby) and [web specialization](https://github.com/felipeholbi/holbertonschool-web_front_end)
 
 - 🌱 I’m currently learning **Node.js, guide to becoming a modern developer of Node.js and Python, Python Developer’s Guide**
 
