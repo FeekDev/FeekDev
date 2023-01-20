@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on learn [Ruby](https://github.com/felipeholbi/Ruby) and [Web Specialization](https://github.com/felipeholbi/holbertonschool-web_front_end)
+- 🔭 I’m currently working as **Freelance Python Developer**
 
-- 🌱 I’m currently learning **Node.js, guide to becoming a modern developer of Node.js and Python, Python Developer’s Guide**
+- 🌱 I’m currently learning the **Framework Django**
 
 - 👯 I’m looking to collaborate on **Projects related Javascript and Python**
 
