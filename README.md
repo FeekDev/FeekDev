@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Freelance Python Developer**
 
-- 🌱 I’m currently learning the **Framework Django**[https://github.com/felipeholbi/learning-django]
+- 🌱 I’m currently learning the [**Framework Django**][https://github.com/felipeholbi/learning-django]
 
 - 👯 I’m looking to collaborate on **Projects related Javascript and Python**
 
