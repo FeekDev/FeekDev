@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working as **Freelance Python Developer**
+- 🔭 I’m currently working in **Personal Projects**
 
-- 🌱 I’m currently learning the [Framework Django](https://github.com/felipeholbi/learning-django)
+- 🌱 I’m currently learning **AWS Essential Training for Developers**
 
 - 👯 I’m looking to collaborate on **Projects related Javascript and Python**
 
