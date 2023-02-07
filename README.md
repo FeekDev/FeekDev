@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Projects related Javascript and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/felipeholbi?tab=repositories](https://github.com/felipeholbi?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/felipeholbi?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@4758](https://medium.com/@4758)
+- 📝 I regularly write articles on [Medium](https://medium.com/@4758)
 
 - 💬 Ask me about **Javascript, Python and C**
 
