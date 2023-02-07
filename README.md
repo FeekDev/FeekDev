@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [my profile at Medium](https://medium.com/@4758)
 
-- 💬 Ask me about **Javascript, Python and C**
+- 💬 Ask me about **Javascript and Python**
 
 - 📫 How to reach me **felipe.riosgg@gmail.com**
 
