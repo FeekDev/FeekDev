@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Personal Projects**
 
-- 🌱 I’m currently learning [React](https://github.com/felipeholbi/react-template)
+- 🌱 I’m currently learning [Front End](https://github.com/FeekDev/Alura)
 
 - 👯 I’m looking to collaborate on **Projects related Javascript and Python**
 
