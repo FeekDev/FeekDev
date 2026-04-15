@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working in **Personal Projects**
+- 🔭 I’m currently working in **Data Analytics**
 
-- 🌱 I’m currently learning [Frontend](https://github.com/FeekDev/Alura)
+- 🌱 I’m currently learning in TdeA
 
-- 👯 I’m looking to collaborate on **Projects related Javascript and Python**
+- 👯 I’m looking to collaborate on **Projects related Javascript, Python and collaborate with Data Analytics**
 
 - 👨‍💻 All of my projects are available at [This Miscellaneous](https://github.com/felipeholbi?tab=repositories)
 
-- 📝 I regularly write articles on [my profile at Medium](https://medium.com/@4758)
-
-- 💬 Ask me about **Javascript and Python**
+- 💬 Ask me about **Javascript, Python and Data Analytics**
 
 - 📫 How to reach me **felipe.riosgg@gmail.com**
 
